@@ -50,7 +50,7 @@ export default function MainNineth() {
                     }}>
                         <Box 
                             component='img'
-                            src='https://res.cloudinary.com/goodsted/image/upload/v1646895303/Assets/around-the-world.svg'
+                            src='./world.webp'
                             sx={{display:'block',width:'100%'}}
                         />
                     </Grid>
